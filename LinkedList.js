@@ -98,6 +98,7 @@ var runTests = function () {
     testList.removeAtTail();
     
     testList.printList();
+    
     testList.removeAtHead();
     testList.removeAtHead();
     
